@@ -1,6 +1,6 @@
 # Wallet-api
 
-## Install Nodemon
+### Install Nodemon
 
 Para rodar o backend com o nodemon, instale-o com o comando abaixo:
 
